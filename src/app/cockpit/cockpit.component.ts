@@ -9,6 +9,7 @@ export class CockpitComponent implements OnInit {
   newServerName = '';
   newServerContent = '';
   // serverElements = [];
+  //
   constructor() { }
 
   ngOnInit() {
